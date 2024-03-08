@@ -10,24 +10,47 @@ Como um local fascinante para criação de conteúdos sobre programação e a á
 
 
 <div>
-    <h2 align="left" style="font-size: 24px"> O BÁSICO </h2>
+    <h1 align="left" style="font-size: 24px"> O BÁSICO </h1>
     <p>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png" align="right"  width="300.5px" height="auto">
 </div>   
 <divd>
 <p align="center">
-   <br> Primeiro é preciso entender que todos os posts aqui são feitos Markdown, uma linguagem considerada simples de marcação, onde converte os seus textos em HTML. Então se você está familiarizado com o codigos em <code>html</code>, aqui nessas publicações você terá o mundo inteiro. <br><br> Para os menos experientes, assim como eu, recomendo iniciar com <a href= "https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open"> O Guia básico de Markdown<a>. <br> E após certa prática é possivel compreender melhor a lógica da linguagem e ir formando post mais complexos, com um <codei> html</codei> mais puro.
+   <br> Primeiro é preciso entender que todos os posts aqui são feitos Markdown, uma linguagem considerada simples de marcação, onde converte os seus textos em HTML. Então se você está familiarizado com o codigos em <code>html</code>, aqui nessas publicações você terá o mundo inteiro. <br><br> Para os menos experientes, assim como eu, recomendo iniciar com <a href= "https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open"> O Guia básico de Markdown<a>. E após certa prática é possivel compreender melhor a lógica da linguagem e ir formando post mais complexos, com um <code>html</code> mais "puro".
 <p>
 
-<p align="center">
-  • • •<br>• •<br>• <br> • •<br> • • •
-<p>
+<br><br>
 
 
+<div>
+    <h1 align="left" style="font-size: 24px"> ENFEITANDO O POST</h1>
+    <h2 align="left" style="font-size: 24px"> BADGES</h2>
+    <p align="center">
+    Badges para blogs são pequenas imagens ou ícones que geralmente são exibidos em blogs para fornecer informações adicionais sobre o autor, o conteúdo do blog ou suas realizações. Esses badges podem incluir, por exemplo, logotipos de empresas com as quais o autor trabalha, Os badges no geral podem ajudar chamando bastante a atenção. E EXISTEM MUITOOOOOOS. Tanto para linguagens quanto para por exemplos redes sociais. </p><br>
+    <h3 align="center"> BADGES DE TECNOLOGIA </h3>
+    <p align="center">
+       <a href="https://github.com/Ileriayo/markdown-badges"> LINK <a> <br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>  <br>
+        <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
+        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+    <br><br>
+    <h3 align="center"> BADGES PARA REDES SOCIAIS </h3>
+     <p align="center">
+         <a href="https://dev.to/envoy_/150-badges-for-github-pnk"> LINK <a> <br><br>
+
 <br><br>
 <br><br>
-<br><br>
-<br><br>
+
+
 
 <div align="center">
   <h2> RECOMENDAÇÃO </h2>
