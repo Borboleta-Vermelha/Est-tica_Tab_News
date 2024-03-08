@@ -59,7 +59,11 @@ Como um local fascinante para criação de conteúdos sobre programação e a á
         <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
 <br><br>
 <br><br>
+<h2 align="left" style="font-size: 24px"> FERRAMENTAS </h2>
 
+
+![68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d64347a377a31397436657178716a347731656b68653136357026636f7665725f696d6167653d74727565267468656d653d646566](https://github.com/Borboleta-Vermelha/Est-tica_Tab_News/assets/98761445/d376d7b1-f10c-4642-bd79-fccdd791284b)
+<svg width="320" height="445" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="cardTitle" role="img">
 
 
 <div align="center">
